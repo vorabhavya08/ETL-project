@@ -1,0 +1,17 @@
+# Core data handling
+pandas
+numpy
+
+# Data visualization
+plotly
+matplotlib
+
+# Dashboard
+streamlit
+
+# File formats
+pyarrow
+fastparquet
+
+# Optional: for cleaning & parsing
+python-dateutil
